@@ -41,9 +41,11 @@
 
 Sokoban est un jeu vidéo de réflexion classique dans lequel le joueur incarne un manutentionnaire chargé de déplacer des caisses dans un entrepôt. L'objectif est de pousser toutes les caisses vers des emplacements cibles prédéfinis, marqués par des points ou des cases spécifiques. Le joueur ne peut pousser qu'une seule caisse à la fois et ne peut pas les tirer, ce qui ajoute une dimension stratégique et demande de planifier soigneusement chaque mouvement. Sokoban est connu pour ses niveaux de difficulté croissante et pour le défi intellectuel qu'il pose aux joueurs.
 
-## Contexte
+## Mode d'emploi
 
-...
+1. Aller dans la branche game
+2. Lancer le fichier sokoban.py
+3. Utiliser les touches Z,Q,S,D pour dépllacer le joueur.
 
 ### Automatisation
 
